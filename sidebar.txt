@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cal:home|Door43 (cal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cal|d43-cal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cal/archive/master.zip|d43-cal.zip]]
+
+**Recent Changes**
+{{changes>ns = cal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cal|Ethnologue data]]
+
